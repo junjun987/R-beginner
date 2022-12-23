@@ -1,10 +1,58 @@
-**一、Master Statistics for Public Health and Learn R. Develop your statistical thinking skills and learn key data analysis methods through R
+R & Basic
+from：hopkins
+https://www.coursera.org/specializations/jhu-data-science（DATA SCIENCE 专项）
+-------------------------------------------------------------------------------------------------------
+*R Programming                                                                                        -
+https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health/home/week/1        -
+**Exploratory Data Analysis                                                                           -
+https://www.coursera.org/learn/exploratory-data-analysis/home/week/1                                  -
+***Getting and Cleaning Data                                                                          -
+
+-------------------------------------------------------------------------------------------------------
+form:duke
+Introduction to Probability and Data with R
+https://www.coursera.org/learn/probability-intro
+
+
+R & PUBLIC HEALTH
+一、Master Statistics for Public Health and Learn R. Develop your statistical thinking skills and learn key data analysis methods through R
 【使用 R 进行公共健康领域的统计分析专项课程】
-**Introduction to Statistics & Data Analysis in Public Health**
-https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health/home/week/1
-**Linear Regression in R for Public Health**
-https://www.coursera.org/learn/linear-regression-r-public-health/home/week/1
-**Logistic Regression in R for Public Health**
-https://www.coursera.org/learn/logistic-regression-r-public-health/home/week/2
-**Survival Analysis in R for Public Health**
-https://www.coursera.org/learn/survival-analysis-r-public-health/home/week/1
+-------------------------------------------------------------------------------------------------------
+*Introduction to Statistics & Data Analysis in Public Health                                          -
+https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health/home/week/1        -
+**Linear Regression in R for Public Health                                                            -
+https://www.coursera.org/learn/linear-regression-r-public-health/home/week/1                          -
+***Logistic Regression in R for Public Health                                                         -
+https://www.coursera.org/learn/logistic-regression-r-public-health/home/week/2                        -
+****Survival Analysis in R for Public Health                                                          -
+https://www.coursera.org/learn/survival-analysis-r-public-health/home/week/1                          -
+-------------------------------------------------------------------------------------------------------
+
+
+
+R & DATA Visualization
+Data Visualization & Dashboarding with R 专项课程
+-------------------------------------------------------------------------------------------------------
+*Getting Started with Data Visualization in R                                                         -
+https://www.coursera.org/learn/jhu-getting-started-data-viz-r/home/week/1                             -
+**Data Visualization in R with ggplot2                                                                -
+https://www.coursera.org/learn/jhu-data-visualization-r/home/week/1                                   -
+***Advanced Data Visualization with R                                                                 -
+https://www.coursera.org/learn/jhu-advanced-data-visualization-r/home/week/1                          -
+****Publishing Visualizations in R with Shiny and flexdashboard                                       -
+https://www.coursera.org/learn/data-viz-shiny-dashboards/home/week/1                                  -
+-------------------------------------------------------------------------------------------------------
+
+
+
+BOOK
+Chinese
+统计学与R读书笔记(第六版) -https://cran.r-project.org/doc/contrib/Xu-Statistics_and_R.pdf
+
+
+
+
+
+
+
+
