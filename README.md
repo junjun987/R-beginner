@@ -1,2 +1,2 @@
-# R-beginneE
+# R-beginner
 R -PLAN
