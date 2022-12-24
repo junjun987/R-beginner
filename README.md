@@ -50,15 +50,15 @@ including：基本统计分析+基本图形
             
 including：探索性数据分析+实验设计
        
-**二、R -ADVANCED-MACHINE LEARING**
+**二、R -ADVANCED**
 
 **AIM**:
 
-1.R和高阶统计方法的运用;【ref:R语言实战+读书笔记+李东风老师的R语言教程】
+1.R高阶统计方法的运用;【ref:R语言实战+读书笔记+R语言教程+lsr】
 
 2.R与机器学习;【ref:cheatsheet】
 
-3.写自己的R包;【ref::R语言实战+读书笔记+李东风老师的书+Learning statistics with R】
+3.写自己的R包;
 
 **METHOD**
 
