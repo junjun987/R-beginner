@@ -1,24 +1,26 @@
-A series of courses
-R & Basic
-from：hopkins
-https://www.coursera.org/specializations/jhu-data-science（DATA SCIENCE 专项）
+     A series of courses
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+         R & Basic
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 -------------------------------------------------------------------------------------------------------
+一、from：hopkins  -------------------------------------------------------------------------------------                                                                       -
+https://www.coursera.org/specializations/jhu-data-science（DATA SCIENCE 专项）-------------------------                          -
 *R Programming                                                                                        -
 https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health/home/week/1        -
 **Exploratory Data Analysis                                                                           -
 https://www.coursera.org/learn/exploratory-data-analysis/home/week/1                                  -
 ***Getting and Cleaning Data                                                                          -
-
+#######################################################################################################                                                                                                      -
+二、form:duke ------------------------------------------------------------------------------------------                                                                                          -
+Introduction to Probability and Data with R                                                           -
+https://www.coursera.org/learn/probability-intro                                                      -
 -------------------------------------------------------------------------------------------------------
-form:duke
-Introduction to Probability and Data with R
-https://www.coursera.org/learn/probability-intro
 
-
-R & PUBLIC HEALTH
-一、Master Statistics for Public Health and Learn R. Develop your statistical thinking skills and learn key data analysis methods through R
-【使用 R 进行公共健康领域的统计分析专项课程】
+     R & PUBLIC HEALTH
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 -------------------------------------------------------------------------------------------------------
+一、Master Statistics for Public Health and Learn R ----------------------------------------------------                                      -
+【使用 R 进行公共健康领域的统计分析专项课程】--------------------------------------------------------------
 *Introduction to Statistics & Data Analysis in Public Health                                          -
 https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health/home/week/1        -
 **Linear Regression in R for Public Health                                                            -
@@ -29,11 +31,10 @@ https://www.coursera.org/learn/logistic-regression-r-public-health/home/week/2  
 https://www.coursera.org/learn/survival-analysis-r-public-health/home/week/1                          -
 -------------------------------------------------------------------------------------------------------
 
-
-
-R & DATA Visualization
-Data Visualization & Dashboarding with R 专项课程
+   R & DATA Visualization
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 -------------------------------------------------------------------------------------------------------
+一、Data Visualization & Dashboarding with R 专项课程---------------------------------------------------
 *Getting Started with Data Visualization in R                                                         -
 https://www.coursera.org/learn/jhu-getting-started-data-viz-r/home/week/1                             -
 **Data Visualization in R with ggplot2                                                                -
@@ -44,32 +45,40 @@ https://www.coursera.org/learn/jhu-advanced-data-visualization-r/home/week/1    
 https://www.coursera.org/learn/data-viz-shiny-dashboards/home/week/1                                  -
 -------------------------------------------------------------------------------------------------------
 
-
-
-BOOK
-------------------------------------
+     BOOK
+%%%%%%%%%%%%%%
+-------------------------------------------------------------------------------------------------------
 Chinese
 统计学与R读书笔记(第六版) -https://cran.r-project.org/doc/contrib/Xu-Statistics_and_R.pdf
 R语言教程-https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html
-R语言实战-https://github.com/harryprince/R-Tutor/blob/master/R%E4%B9%A6/R%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%EF%BC%88%E4%B8%AD%E6%96%87%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%89.pdf
+R语言实战-https://github.com/harryprince/R-Tutor/blob/master/
 English
 R for Data Science -https://r4ds.had.co.nz/index.html
 Learning Statistics with R-https://learningstatisticswithr.com/lsr-0.6.pdf
-
-Website
----------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
+     Website
+%%%%%%%%%%%%%%%%%%%
+-------------------------------------------------------------------------------------------------------
 R语言从入门到机器学习-https://habit.blog.csdn.net/category_11123154_54.html-CRAN-需购买
+-------------------------------------------------------------------------------------------------------
+
+    Good videos
+%%%%%%%%%%%%%%%%%%%
+-------------------------------------------------------------------------------------------------------
+*A Gentle Introduction to Tidy Statistics in R - https://www.rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/
+-------------------------------------------------------------------------------------------------------
 
 
-Good videos
----------------------------------------------------------------------------------------------------------------------------------------------------------
-A Gentle Introduction to Tidy Statistics in R - https://www.rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/
-
-
-professional
+   professional
+%%%%%%%%%%%%%%%%%%%
+-------------------------------------------------------------------------------------------------------
 李东风老师-https://www.math.pku.edu.cn/teachers/lidf/
+-------------------------------------------------------------------------------------------------------
 
-R cheatsheet
-https://posit.co/resources/cheatsheets/
-https://cheatography.com/tag/r/
+       Others
+%%%%%%%%%%%%%%%%%%%
+-------------------------------------------------------------------------------------------------------
+R cheatsheet--https://posit.co/resources/cheatsheets/
+R cheatsheet--https://cheatography.com/tag/r/
+-------------------------------------------------------------------------------------------------------
 
